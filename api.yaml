@@ -160,9 +160,6 @@ components:
         - startTime
         - movieName
       properties:
-        id:
-          type: string
-          format: uuid
         startTime:
           type: string
           format: date-time
